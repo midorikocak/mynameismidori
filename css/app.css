@@ -252,6 +252,7 @@ p{
     border: solid 1px white;
     padding:15px;
     color: white;
+    background: none;
 }
 
 footer p{
