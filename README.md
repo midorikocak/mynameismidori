@@ -1,5 +1,5 @@
 # mtkocak.github.io
-My public web page and codes ported to github.io, currently located at mynameismidori.com
+My public web page and codes ported to github.io, currently located at mtkocak.net
 
 TODO:
 
